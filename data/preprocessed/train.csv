@@ -1,351 +1,463 @@
-Year,End_Use,Energy_ktoe,Population,Households,Inhabitants per household,HDD,CDD,GDP,Expenditure,Tech_Advanced electric heating,Tech_Air conditioning,Tech_Biomass and wastes,Tech_Conventional electric heating,Tech_Derived heat,Tech_Electricity,Tech_Electricity in circulation,Tech_Gas/Diesel oil incl. biofuels (GDO),Tech_Gases incl. biogas,Tech_Geothermal energy,Tech_Liquified petroleum gas (LPG),Tech_Solar,Tech_Solids
-2000,Cooking,0.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2000,Cooking,1430.199,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2000,Cooking,1575.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2000,Cooking,586.7,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2000,Cooking,0.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2000,Space cooling,28.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2000,Space heating,28.052,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2000,Space heating,3812.2,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2000,Space heating,1782.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2000,Space heating,5263.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2000,Space heating,683.8,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2000,Space heating,16723.361,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2000,Space heating,19014.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2000,Space heating,0.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2000,Space heating,129.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2000,Space heating,813.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2000,Water heating,215.466,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2000,Water heating,666.8,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2000,Water heating,1492.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2000,Water heating,2031.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2000,Water heating,2852.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2000,Water heating,0.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2000,Water heating,147.3,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2000,Water heating,97.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2000,Water heating,91.0,82163475.0,38136234.0,2.154,2803.0,8.0,2358694.0,1379742.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2001,Cooking,0.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2001,Cooking,1425.478,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2001,Cooking,1558.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2001,Cooking,595.6,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2001,Cooking,0.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2001,Space cooling,31.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2001,Space heating,36.773,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2001,Space heating,3872.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2001,Space heating,1977.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2001,Space heating,5386.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2001,Space heating,690.3,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2001,Space heating,19316.853,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2001,Space heating,20340.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2001,Space heating,0.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2001,Space heating,131.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2001,Space heating,778.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2001,Water heating,228.919,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2001,Water heating,639.7,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2001,Water heating,1421.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2001,Water heating,2189.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2001,Water heating,2830.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2001,Water heating,0.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2001,Water heating,141.4,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2001,Water heating,125.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2001,Water heating,81.0,82259540.0,38317671.0,2.147,3137.0,13.0,2398682.0,1402017.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2002,Cooking,0.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2002,Cooking,1441.972,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2002,Cooking,1643.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2002,Cooking,515.9,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2002,Cooking,0.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2002,Space cooling,33.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2002,Space heating,44.3,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2002,Space heating,3878.2,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2002,Space heating,2011.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2002,Space heating,5278.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2002,Space heating,704.5,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2002,Space heating,16983.928,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2002,Space heating,20155.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2002,Space heating,0.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2002,Space heating,123.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2002,Space heating,648.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2002,Water heating,256.157,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2002,Water heating,657.7,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2002,Water heating,1367.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2002,Water heating,2022.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2002,Water heating,2930.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2002,Water heating,0.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2002,Water heating,138.1,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2002,Water heating,149.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2002,Water heating,71.0,82440309.0,38540012.0,2.139,2977.0,15.0,2398691.0,1391177.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2003,Cooking,0.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2003,Cooking,1459.898,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2003,Cooking,1674.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2003,Cooking,449.7,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2003,Cooking,0.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2003,Space cooling,34.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2003,Space heating,51.585,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2003,Space heating,4243.8,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2003,Space heating,2134.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2003,Space heating,4467.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2003,Space heating,619.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2003,Space heating,16468.529,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2003,Space heating,20117.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2003,Space heating,2.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2003,Space heating,104.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2003,Space heating,669.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2003,Water heating,303.078,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2003,Water heating,578.1,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2003,Water heating,1312.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2003,Water heating,2031.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2003,Water heating,2998.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2003,Water heating,0.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2003,Water heating,135.1,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2003,Water heating,202.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2003,Water heating,77.0,82536680.0,38724361.0,2.131,3140.0,56.0,2381651.0,1392767.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2004,Cooking,0.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2004,Cooking,1283.742,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2004,Cooking,1677.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2004,Cooking,626.4,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2004,Cooking,0.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2004,Space cooling,36.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2004,Space heating,60.745,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2004,Space heating,4116.4,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2004,Space heating,2154.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2004,Space heating,4815.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2004,Space heating,713.6,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2004,Space heating,14794.581,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2004,Space heating,19387.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2004,Space heating,4.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2004,Space heating,155.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2004,Space heating,538.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2004,Water heating,322.02,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2004,Water heating,651.6,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2004,Water heating,1349.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2004,Water heating,1921.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2004,Water heating,3006.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2004,Water heating,0.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2004,Water heating,133.9,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2004,Water heating,205.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2004,Water heating,64.0,82531671.0,38862308.0,2.124,3187.0,5.0,2409529.0,1403317.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2005,Cooking,0.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2005,Cooking,1379.222,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2005,Cooking,1653.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2005,Cooking,537.8,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2005,Cooking,0.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2005,Space cooling,42.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2005,Space heating,69.2,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2005,Space heating,4166.3,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2005,Space heating,2171.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2005,Space heating,4691.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2005,Space heating,632.9,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2005,Space heating,14624.738,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2005,Space heating,18703.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2005,Space heating,4.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2005,Space heating,138.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2005,Space heating,534.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2005,Water heating,339.308,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2005,Water heating,643.8,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2005,Water heating,1267.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2005,Water heating,1938.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2005,Water heating,2934.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2005,Water heating,0.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2005,Water heating,131.1,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2005,Water heating,241.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2005,Water heating,66.0,82500849.0,38989059.0,2.116,3148.0,10.0,2426556.0,1409110.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2006,Cooking,0.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2006,Cooking,1351.701,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2006,Cooking,1616.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2006,Cooking,576.4,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2006,Cooking,0.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2006,Space cooling,53.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2006,Space heating,80.17,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2006,Space heating,4424.8,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2006,Space heating,2139.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2006,Space heating,4221.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2006,Space heating,556.7,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2006,Space heating,15582.731,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2006,Space heating,18222.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2006,Space heating,4.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2006,Space heating,165.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2006,Space heating,597.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2006,Water heating,372.348,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2006,Water heating,583.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2006,Water heating,1235.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2006,Water heating,2055.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2006,Water heating,2830.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2006,Water heating,0.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2006,Water heating,124.6,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2006,Water heating,285.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2006,Water heating,74.0,82437995.0,39331104.0,2.096,3021.0,35.0,2516323.0,1430214.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2007,Cooking,0.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2007,Cooking,1419.511,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2007,Cooking,1816.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2007,Cooking,331.9,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2007,Cooking,0.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2007,Space cooling,61.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2007,Space heating,76.255,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2007,Space heating,4211.2,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2007,Space heating,1791.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2007,Space heating,3751.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2007,Space heating,631.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2007,Space heating,9201.427,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2007,Space heating,16178.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2007,Space heating,4.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2007,Space heating,112.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2007,Space heating,612.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2007,Water heating,448.345,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2007,Water heating,638.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2007,Water heating,1144.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2007,Water heating,1483.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2007,Water heating,3077.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2007,Water heating,0.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2007,Water heating,117.2,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2007,Water heating,313.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2007,Water heating,94.0,82314906.0,39593509.0,2.079,2815.0,10.0,2598379.0,1430224.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2008,Cooking,0.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2008,Cooking,1376.169,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2008,Cooking,1703.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2008,Cooking,466.1,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2008,Cooking,0.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2008,Space cooling,77.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2008,Space heating,100.83,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2008,Space heating,4438.8,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2008,Space heating,1917.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2008,Space heating,3844.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2008,Space heating,420.5,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2008,Space heating,13472.169,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2008,Space heating,17552.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2008,Space heating,6.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2008,Space heating,159.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2008,Space heating,568.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2008,Water heating,441.781,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2008,Water heating,566.3,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2008,Water heating,1027.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2008,Water heating,1909.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2008,Water heating,2910.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2008,Water heating,0.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2008,Water heating,131.3,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2008,Water heating,361.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2008,Water heating,77.0,82217837.0,40008680.0,2.055,2985.0,10.0,2626510.0,1438747.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2009,Cooking,0.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2009,Cooking,1380.672,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2009,Cooking,1751.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2009,Cooking,420.5,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2009,Cooking,0.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2009,Space cooling,92.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2009,Space heating,109.298,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2009,Space heating,4814.8,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2009,Space heating,1770.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2009,Space heating,3653.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2009,Space heating,481.1,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2009,Space heating,11634.441,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2009,Space heating,17129.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2009,Space heating,8.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2009,Space heating,160.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2009,Space heating,569.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2009,Water heating,517.102,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2009,Water heating,561.4,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2009,Water heating,960.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2009,Water heating,1725.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2009,Water heating,2969.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2009,Water heating,0.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2009,Water heating,154.1,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2009,Water heating,425.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2009,Water heating,82.0,82002356.0,40079353.0,2.046,3081.0,4.0,2478921.0,1440923.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2010,Cooking,0.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2010,Cooking,1320.066,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2010,Cooking,1778.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2010,Cooking,471.9,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2010,Cooking,0.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2010,Space cooling,109.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2010,Space heating,137.548,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2010,Space heating,5485.5,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2010,Space heating,1913.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2010,Space heating,3922.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2010,Space heating,584.3,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2010,Space heating,11784.156,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2010,Space heating,18988.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2010,Space heating,14.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2010,Space heating,168.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2010,Space heating,851.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2010,Water heating,593.107,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2010,Water heating,589.6,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2010,Water heating,851.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2010,Water heating,1725.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2010,Water heating,3141.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2010,Water heating,0.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2010,Water heating,188.9,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2010,Water heating,450.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2010,Water heating,120.0,81802257.0,40296678.0,2.03,3630.0,32.0,2580060.0,1446274.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2011,Cooking,0.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2011,Cooking,1360.192,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2011,Cooking,1699.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2011,Cooking,458.2,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2011,Cooking,0.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2011,Space cooling,105.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2011,Space heating,143.591,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2011,Space heating,4769.4,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2011,Space heating,1588.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2011,Space heating,3341.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2011,Space heating,593.7,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2011,Space heating,9871.348,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2011,Space heating,15144.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2011,Space heating,16.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2011,Space heating,146.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2011,Space heating,727.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2011,Water heating,609.426,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2011,Water heating,584.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2011,Water heating,809.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2011,Water heating,1706.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2011,Water heating,2915.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2011,Water heating,0.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2011,Water heating,185.5,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2011,Water heating,522.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2011,Water heating,125.0,80222065.0,39733564.0,2.019,2872.0,9.0,2674503.0,1465792.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2012,Cooking,0.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2012,Cooking,1329.246,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2012,Cooking,1789.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2012,Cooking,425.6,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2012,Cooking,0.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2012,Space cooling,106.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2012,Space heating,177.762,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2012,Space heating,4900.5,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2012,Space heating,1663.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2012,Space heating,2891.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2012,Space heating,618.9,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2012,Space heating,10546.205,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2012,Space heating,16746.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2012,Space heating,21.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2012,Space heating,143.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2012,Space heating,636.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2012,Water heating,616.862,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2012,Water heating,484.8,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2012,Water heating,820.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2012,Water heating,1757.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2012,Water heating,3084.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2012,Water heating,0.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2012,Water heating,156.8,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2012,Water heating,540.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2012,Water heating,110.0,80327900.0,39984022.0,2.009,3130.0,15.0,2687655.0,1485473.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2013,Cooking,0.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2013,Cooking,1248.194,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2013,Cooking,1728.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2013,Cooking,557.5,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2013,Cooking,0.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2013,Space cooling,105.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,True,False,False,False,False,False,False,False,False,False,False,False
-2013,Space heating,214.59,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,True,False,False,False,False,False,False,False,False,False,False,False,False
-2013,Space heating,5027.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2013,Space heating,1811.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,True,False,False,False,False,False,False,False,False,False
-2013,Space heating,3810.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2013,Space heating,614.7,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,True,False,False,False,False,False,False
-2013,Space heating,11550.706,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2013,Space heating,17741.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2013,Space heating,22.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2013,Space heating,147.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2013,Space heating,584.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,False,False,True
-2013,Water heating,607.33,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,True,False,False,False,False,False,False,False,False,False,False
-2013,Water heating,596.1,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,True,False,False,False,False,False,False,False,False
-2013,Water heating,803.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,True,False,False,False,False,False,False,False
-2013,Water heating,1797.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,True,False,False,False,False,False
-2013,Water heating,3040.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,True,False,False,False,False
-2013,Water heating,0.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,True,False,False,False
-2013,Water heating,156.8,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,True,False,False
-2013,Water heating,545.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,False,True,False
-2013,Water heating,95.0,80523746.0,39823811.0,2.022,3288.0,28.0,2700814.0,1494585.0,False,False,False,False,False,False,False,False,False,False,False,False,True
+Year,End_Use,Energy_ktoe,Population,Households,Inhabitants per household,HDD,CDD,GDP,Expenditure,Tech_Advanced electric heating,Tech_Air conditioning,Tech_Biomass,Tech_Conventional electric heating,Tech_Diesel oil,Tech_Distributed heat,Tech_Electricity,Tech_Electricity in circulation,Tech_Geothermal,Tech_Liquified petroleum gas (LPG),Tech_Natural gas,Tech_Solar,Tech_Solids
+2000,Cooking,2603.127898,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,True,False,False,False,False,False,False
+2000,Cooking,75.09996805,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,False,True,False,False
+2000,Space cooling,49.76589487,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,True,False,False,False,False,False,False,False,False,False,False,False
+2000,Space heating,91.03183614,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,True,False,False,False,False,False,False,False,False,False,False,False,False
+2000,Space heating,3840.225618,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,True,False,False,False,False,False,False,False,False,False,False
+2000,Space heating,162.9334677,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,True,False,False,False,False,False,False,False,False,False
+2000,Space heating,16476.62666,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,True,False,False,False,False,False,False,False,False
+2000,Space heating,5389.732826,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,True,False,False,False,False,False,False,False
+2000,Space heating,544.3198161,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,True,False,False,False,False,False
+2000,Space heating,0.0,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,True,False,False,False,False
+2000,Space heating,756.0225206,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,True,False,False,False
+2000,Space heating,20138.71573,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,False,True,False,False
+2000,Space heating,918.3542562,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,False,False,False,True
+2000,Water heating,187.4088623,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,True,False,False,False,False,False,False,False,False,False,False
+2000,Water heating,2319.537483,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,True,False,False,False,False,False,False,False,False
+2000,Water heating,540.4286533,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,True,False,False,False,False,False,False,False
+2000,Water heating,1268.21822,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,True,False,False,False,False,False,False
+2000,Water heating,0.0,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,True,False,False,False,False
+2000,Water heating,130.824255,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,True,False,False,False
+2000,Water heating,3227.22042,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,False,True,False,False
+2000,Water heating,96.82811694,82163475.0,38136234.0,2.154472699,3636.65,1.15,3295140.008,1853218.384,False,False,False,False,False,False,False,False,False,False,False,True,False
+2001,Cooking,2709.503647,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,True,False,False,False,False,False,False
+2001,Cooking,77.14894562,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,False,True,False,False
+2001,Space cooling,49.6473295,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,True,False,False,False,False,False,False,False,False,False,False,False
+2001,Space heating,119.3348926,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,True,False,False,False,False,False,False,False,False,False,False,False,False
+2001,Space heating,3908.514351,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,True,False,False,False,False,False,False,False,False,False,False
+2001,Space heating,186.3840985,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,True,False,False,False,False,False,False,False,False,False
+2001,Space heating,18959.80097,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,True,False,False,False,False,False,False,False,False
+2001,Space heating,5494.95262,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,True,False,False,False,False,False,False,False
+2001,Space heating,590.3918146,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,True,False,False,False,False,False
+2001,Space heating,0.0,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,True,False,False,False,False
+2001,Space heating,773.8565346,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,True,False,False,False
+2001,Space heating,21336.33474,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,False,True,False,False
+2001,Space heating,892.2729149,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,False,False,False,True
+2001,Water heating,192.4696555,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,True,False,False,False,False,False,False,False,False,False,False
+2001,Water heating,2593.958449,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,True,False,False,False,False,False,False,False,False
+2001,Water heating,530.890544,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,True,False,False,False,False,False,False,False
+2001,Water heating,1258.480683,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,True,False,False,False,False,False,False
+2001,Water heating,0.0,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,True,False,False,False,False
+2001,Water heating,118.6389083,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,True,False,False,False
+2001,Water heating,3315.471605,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,False,True,False,False
+2001,Water heating,125.4418745,82259540.0,38317671.0,2.14677818,3423.87,0.93,3349036.49,1871497.485,False,False,False,False,False,False,False,False,False,False,False,True,False
+2002,Cooking,2788.441782,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,True,False,False,False,False,False,False
+2002,Cooking,83.5463457,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,False,True,False,False
+2002,Space cooling,49.63408028,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,True,False,False,False,False,False,False,False,False,False,False,False
+2002,Space heating,143.7581659,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,True,False,False,False,False,False,False,False,False,False,False,False,False
+2002,Space heating,3918.078384,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,True,False,False,False,False,False,False,False,False,False,False
+2002,Space heating,196.0012446,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,True,False,False,False,False,False,False,False,False,False
+2002,Space heating,16602.49267,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,True,False,False,False,False,False,False,False,False
+2002,Space heating,5378.872791,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,True,False,False,False,False,False,False,False
+2002,Space heating,550.6291821,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,True,False,False,False,False,False
+2002,Space heating,0.0,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,True,False,False,False,False
+2002,Space heating,689.4403245,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,True,False,False,False
+2002,Space heating,21103.50378,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,False,True,False,False
+2002,Space heating,730.4535684,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,False,False,False,True
+2002,Water heating,216.3440584,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,True,False,False,False,False,False,False,False,False,False,False
+2002,Water heating,2446.322635,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,True,False,False,False,False,False,False,False,False
+2002,Water heating,556.8298747,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,True,False,False,False,False,False,False,False
+2002,Water heating,1284.575949,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,True,False,False,False,False,False,False
+2002,Water heating,0.0,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,True,False,False,False,False
+2002,Water heating,109.2865887,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,True,False,False,False
+2002,Water heating,3541.023818,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,False,True,False,False
+2002,Water heating,148.8487532,82440309.0,38540012.0,2.139083636,3210.62,7.66,3341396.677,1861025.537,False,False,False,False,False,False,False,False,False,False,False,True,False
+2003,Cooking,2856.583087,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,True,False,False,False,False,False,False
+2003,Cooking,89.29183817,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,False,True,False,False
+2003,Space cooling,93.46811527,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,True,False,False,False,False,False,False,False,False,False,False,False
+2003,Space heating,167.4005501,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,True,False,False,False,False,False,False,False,False,False,False,False,False
+2003,Space heating,4401.405201,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,True,False,False,False,False,False,False,False,False,False,False
+2003,Space heating,210.8215155,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,True,False,False,False,False,False,False,False,False,False
+2003,Space heating,16020.42948,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,True,False,False,False,False,False,False,False,False
+2003,Space heating,4553.370557,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,True,False,False,False,False,False,False,False
+2003,Space heating,531.686491,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,True,False,False,False,False,False
+2003,Space heating,1.41989151,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,True,False,False,False,False
+2003,Space heating,597.4557506,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,True,False,False,False
+2003,Space heating,21001.01431,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,False,True,False,False
+2003,Space heating,740.9047291,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,False,False,False,True
+2003,Water heating,266.2168106,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,True,False,False,False,False,False,False,False,False,False,False
+2003,Water heating,2479.033377,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,True,False,False,False,False,False,False,False,False
+2003,Water heating,491.7235102,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,True,False,False,False,False,False,False,False
+2003,Water heating,1255.474905,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,True,False,False,False,False,False,False
+2003,Water heating,0.108741336,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,True,False,False,False,False
+2003,Water heating,91.68956321,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,True,False,False,False
+2003,Water heating,3701.851982,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,False,True,False,False
+2003,Water heating,199.8901118,82536680.0,38724361.0,2.131389076,3215.86,17.75,3323696.755,1875000.513,False,False,False,False,False,False,False,False,False,False,False,True,False
+2004,Cooking,2946.171097,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,True,False,False,False,False,False,False
+2004,Cooking,92.22841253,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,False,True,False,False
+2004,Space cooling,51.23801444,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,True,False,False,False,False,False,False,False,False,False,False,False
+2004,Space heating,162.6678391,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,True,False,False,False,False,False,False,False,False,False,False,False,False
+2004,Space heating,4275.626655,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,True,False,False,False,False,False,False,False,False,False,False
+2004,Space heating,211.5450667,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,True,False,False,False,False,False,False,False,False,False
+2004,Space heating,14367.6393,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,True,False,False,False,False,False,False,False,False
+2004,Space heating,4910.478622,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,True,False,False,False,False,False,False,False
+2004,Space heating,503.6831445,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,True,False,False,False,False,False
+2004,Space heating,3.470988293,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,True,False,False,False,False
+2004,Space heating,788.7283893,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,True,False,False,False
+2004,Space heating,20222.33937,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,False,True,False,False
+2004,Space heating,598.9794497,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,False,False,False,True
+2004,Water heating,285.183491,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,True,False,False,False,False,False,False,False,False,False,False
+2004,Water heating,2347.793034,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,True,False,False,False,False,False,False,False,False
+2004,Water heating,555.9157894,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,True,False,False,False,False,False,False,False
+2004,Water heating,1301.242202,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,True,False,False,False,False,False,False
+2004,Water heating,0.278882731,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,True,False,False,False,False
+2004,Water heating,126.81959,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,True,False,False,False
+2004,Water heating,3760.919749,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,False,True,False,False
+2004,Water heating,204.0699054,82531671.0,38862308.0,2.123694532,3501.02,7.0,3362311.399,1886923.197,False,False,False,False,False,False,False,False,False,False,False,True,False
+2005,Cooking,3010.029971,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,True,False,False,False,False,False,False
+2005,Cooking,93.924142,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,False,True,False,False
+2005,Space cooling,55.74994341,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,True,False,False,False,False,False,False,False,False,False,False,False
+2005,Space heating,164.7166781,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,True,False,False,False,False,False,False,False,False,False,False,False,False
+2005,Space heating,4185.392107,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,True,False,False,False,False,False,False,False,False,False,False
+2005,Space heating,211.6491256,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,True,False,False,False,False,False,False,False,False,False
+2005,Space heating,14149.99456,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,True,False,False,False,False,False,False,False,False
+2005,Space heating,4775.71622,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,True,False,False,False,False,False,False,False
+2005,Space heating,487.2048553,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,True,False,False,False,False,False
+2005,Space heating,3.713146349,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,True,False,False,False,False
+2005,Space heating,696.142011,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,True,False,False,False
+2005,Space heating,19441.88182,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,False,True,False,False
+2005,Space heating,603.7039553,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,False,False,False,True
+2005,Water heating,304.5286148,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,True,False,False,False,False,False,False,False,False,False,False
+2005,Water heating,2412.461762,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,True,False,False,False,False,False,False,False,False
+2005,Water heating,559.5039867,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,True,False,False,False,False,False,False,False
+2005,Water heating,1283.976955,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,True,False,False,False,False,False,False
+2005,Water heating,0.308951673,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,True,False,False,False,False
+2005,Water heating,110.3323656,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,True,False,False,False
+2005,Water heating,3766.999279,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,False,True,False,False
+2005,Water heating,242.0703353,82500849.0,38989059.0,2.116000004,3663.45,1.92,3392115.619,1903980.247,False,False,False,False,False,False,False,False,False,False,False,True,False
+2006,Cooking,2966.941855,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,True,False,False,False,False,False,False
+2006,Cooking,89.85686195,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,False,True,False,False
+2006,Space cooling,88.53418697,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,True,False,False,False,False,False,False,False,False,False,False,False
+2006,Space heating,186.205315,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,True,False,False,False,False,False,False,False,False,False,False,False,False
+2006,Space heating,4943.559114,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,True,False,False,False,False,False,False,False,False,False,False
+2006,Space heating,209.3041869,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,True,False,False,False,False,False,False,False,False,False
+2006,Space heating,15121.03304,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,True,False,False,False,False,False,False,False,False
+2006,Space heating,4314.834692,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,True,False,False,False,False,False,False,False
+2006,Space heating,490.7480812,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,True,False,False,False,False,False
+2006,Space heating,3.956759034,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,True,False,False,False,False
+2006,Space heating,750.8180294,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,True,False,False,False
+2006,Space heating,19016.65663,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,False,True,False,False
+2006,Space heating,679.5582975,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,False,False,False,True
+2006,Water heating,367.9198198,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,True,False,False,False,False,False,False,False,False,False,False
+2006,Water heating,2518.051057,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,True,False,False,False,False,False,False,False,False
+2006,Water heating,489.0966925,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,True,False,False,False,False,False,False,False
+2006,Water heating,1243.359736,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,True,False,False,False,False,False,False
+2006,Water heating,0.318563408,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,True,False,False,False,False
+2006,Water heating,115.4651176,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,True,False,False,False
+2006,Water heating,3588.824088,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,False,True,False,False
+2006,Water heating,285.2058469,82437995.0,39331104.0,2.096000026,3555.26,6.77,3523280.045,1931127.377,False,False,False,False,False,False,False,False,False,False,False,True,False
+2007,Cooking,2816.594157,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,True,False,False,False,False,False,False
+2007,Cooking,93.37634231,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,False,True,False,False
+2007,Space cooling,70.19962381,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,True,False,False,False,False,False,False,False,False,False,False,False
+2007,Space heating,217.3598406,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,True,False,False,False,False,False,False,False,False,False,False,False,False
+2007,Space heating,5040.713621,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,True,False,False,False,False,False,False,False,False,False,False
+2007,Space heating,180.8096514,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,True,False,False,False,False,False,False,False,False,False
+2007,Space heating,8916.043416,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,True,False,False,False,False,False,False,False,False
+2007,Space heating,3869.591298,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,True,False,False,False,False,False,False,False
+2007,Space heating,385.4131038,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,True,False,False,False,False,False
+2007,Space heating,3.706318803,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,True,False,False,False,False
+2007,Space heating,464.0089765,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,True,False,False,False
+2007,Space heating,17178.38261,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,False,True,False,False
+2007,Space heating,717.5073087,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,False,False,False,True
+2007,Water heating,470.4882709,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,True,False,False,False,False,False,False,False,False,False,False
+2007,Water heating,1770.476361,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,True,False,False,False,False,False,False,False,False
+2007,Water heating,519.8946868,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,True,False,False,False,False,False,False,False
+2007,Water heating,1354.560471,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,True,False,False,False,False,False,False
+2007,Water heating,0.354042332,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,True,False,False,False,False
+2007,Water heating,96.6912815,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,True,False,False,False
+2007,Water heating,3871.780258,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,False,True,False,False
+2007,Water heating,317.0201204,82314906.0,39593509.0,2.07900002,3693.15,3.21,3625055.031,1928247.726,False,False,False,False,False,False,False,False,False,False,False,True,False
+2008,Cooking,2714.621304,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,True,False,False,False,False,False,False
+2008,Cooking,83.07111325,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,False,True,False,False
+2008,Space cooling,78.53593929,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,True,False,False,False,False,False,False,False,False,False,False,False
+2008,Space heating,255.8600741,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,True,False,False,False,False,False,False,False,False,False,False,False,False
+2008,Space heating,6007.756514,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,True,False,False,False,False,False,False,False,False,False,False
+2008,Space heating,194.9473951,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,True,False,False,False,False,False,False,False,False,False
+2008,Space heating,13101.30504,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,True,False,False,False,False,False,False,False,False
+2008,Space heating,3951.648559,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,True,False,False,False,False,False,False,False
+2008,Space heating,461.6035228,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,True,False,False,False,False,False
+2008,Space heating,5.316254632,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,True,False,False,False,False
+2008,Space heating,643.4283926,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,True,False,False,False
+2008,Space heating,18517.83616,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,False,True,False,False
+2008,Space heating,651.705417,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,False,False,False,True
+2008,Water heating,509.9419386,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,True,False,False,False,False,False,False,False,False,False,False
+2008,Water heating,2282.686445,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,True,False,False,False,False,False,False,False,False
+2008,Water heating,458.9753451,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,True,False,False,False,False,False,False,False
+2008,Water heating,1269.691722,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,True,False,False,False,False,False,False
+2008,Water heating,0.439893261,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,True,False,False,False,False
+2008,Water heating,113.062665,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,True,False,False,False
+2008,Water heating,3636.906309,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,False,True,False,False
+2008,Water heating,361.8515047,82217837.0,40008680.0,2.05499999,3079.76,3.41,3657250.822,1929468.383,False,False,False,False,False,False,False,False,False,False,False,True,False
+2009,Cooking,2702.751193,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,True,False,False,False,False,False,False
+2009,Cooking,87.21072158,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,False,True,False,False
+2009,Space cooling,81.70888857,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,True,False,False,False,False,False,False,False,False,False,False,False
+2009,Space heating,291.2287432,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,True,False,False,False,False,False,False,False,False,False,False,False,False
+2009,Space heating,5250.492162,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,True,False,False,False,False,False,False,False,False,False,False
+2009,Space heating,183.6539354,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,True,False,False,False,False,False,False,False,False,False
+2009,Space heating,11272.10153,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,True,False,False,False,False,False,False,False,False
+2009,Space heating,3755.355769,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,True,False,False,False,False,False,False,False
+2009,Space heating,430.2338532,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,True,False,False,False,False,False
+2009,Space heating,7.534992375,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,True,False,False,False,False
+2009,Space heating,620.110472,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,True,False,False,False
+2009,Space heating,18199.26497,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,False,True,False,False
+2009,Space heating,634.8128977,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,False,False,False,True
+2009,Water heating,494.2055163,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,True,False,False,False,False,False,False,False,False,False,False
+2009,Water heating,2091.586257,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,True,False,False,False,False,False,False,False,False
+2009,Water heating,458.8651253,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,True,False,False,False,False,False,False,False
+2009,Water heating,1278.951404,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,True,False,False,False,False,False,False
+2009,Water heating,0.657440987,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,True,False,False,False,False
+2009,Water heating,114.3098204,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,True,False,False,False
+2009,Water heating,3672.208143,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,False,True,False,False
+2009,Water heating,426.1011178,82002356.0,40079353.0,2.045999994,2989.94,7.57,3454456.178,1936470.72,False,False,False,False,False,False,False,False,False,False,False,True,False
+2010,Cooking,2781.436971,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,True,False,False,False,False,False,False
+2010,Cooking,90.49824952,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,False,True,False,False
+2010,Space cooling,96.4887587,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,True,False,False,False,False,False,False,False,False,False,False,False
+2010,Space heating,323.6945551,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,True,False,False,False,False,False,False,False,False,False,False,False,False
+2010,Space heating,6247.415086,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,True,False,False,False,False,False,False,False,False,False,False
+2010,Space heating,197.9897212,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,True,False,False,False,False,False,False,False,False,False
+2010,Space heating,11521.3572,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,True,False,False,False,False,False,False,False,False
+2010,Space heating,4056.137095,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,True,False,False,False,False,False,False,False
+2010,Space heating,469.5310462,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,True,False,False,False,False,False
+2010,Space heating,13.08902612,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,True,False,False,False,False
+2010,Space heating,705.1248972,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,True,False,False,False
+2010,Space heating,20184.41338,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,False,True,False,False
+2010,Space heating,992.1415305,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,False,False,False,True
+2010,Water heating,571.2053783,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,True,False,False,False,False,False,False,False,False,False,False
+2010,Water heating,1991.597057,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,True,False,False,False,False,False,False,False,False
+2010,Water heating,455.2797584,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,True,False,False,False,False,False,False,False
+2010,Water heating,1349.320235,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,True,False,False,False,False,False,False
+2010,Water heating,1.050612748,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,True,False,False,False,False
+2010,Water heating,123.8464699,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,True,False,False,False
+2010,Water heating,3770.436776,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,False,True,False,False
+2010,Water heating,454.9536543,81802257.0,40296678.0,2.030000016,2963.5,6.5,3597285.175,1947365.128,False,False,False,False,False,False,False,False,False,False,False,True,False
+2011,Cooking,2511.572723,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,True,False,False,False,False,False,False
+2011,Cooking,79.03190981,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,False,True,False,False
+2011,Space cooling,103.1779163,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,True,False,False,False,False,False,False,False,False,False,False,False
+2011,Space heating,354.578213,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,True,False,False,False,False,False,False,False,False,False,False,False,False
+2011,Space heating,5491.757786,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,True,False,False,False,False,False,False,False,False,False,False
+2011,Space heating,166.190309,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,True,False,False,False,False,False,False,False,False,False
+2011,Space heating,9621.97697,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,True,False,False,False,False,False,False,False,False
+2011,Space heating,3473.944143,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,True,False,False,False,False,False,False,False
+2011,Space heating,388.4675045,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,True,False,False,False,False,False
+2011,Space heating,14.50944801,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,True,False,False,False,False
+2011,Space heating,654.405825,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,True,False,False,False
+2011,Space heating,16425.1051,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,False,True,False,False
+2011,Space heating,865.783061,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,False,False,False,True
+2011,Water heating,615.0779832,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,True,False,False,False,False,False,False,False,False,False,False
+2011,Water heating,1956.709014,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,True,False,False,False,False,False,False,False,False
+2011,Water heating,451.4164756,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,True,False,False,False,False,False,False,False
+2011,Water heating,1449.00273,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,True,False,False,False,False,False,False
+2011,Water heating,1.349881313,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,True,False,False,False,False
+2011,Water heating,134.9860064,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,True,False,False,False
+2011,Water heating,3419.850093,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,False,True,False,False
+2011,Water heating,521.233362,80222065.0,39733564.0,2.018999982,3400.57,7.59,3732492.976,1970393.528,False,False,False,False,False,False,False,False,False,False,False,True,False
+2012,Cooking,2553.48239,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,True,False,False,False,False,False,False
+2012,Cooking,86.47506449,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,False,True,False,False
+2012,Space cooling,103.4800564,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,True,False,False,False,False,False,False,False,False,False,False,False
+2012,Space heating,387.8843914,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,True,False,False,False,False,False,False,False,False,False,False,False,False
+2012,Space heating,6679.966605,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,True,False,False,False,False,False,False,False,False,False,False
+2012,Space heating,175.042856,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,True,False,False,False,False,False,False,False,False,False
+2012,Space heating,10356.522,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,True,False,False,False,False,False,False,False,False
+2012,Space heating,3014.888086,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,True,False,False,False,False,False,False,False
+2012,Space heating,431.1136434,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,True,False,False,False,False,False
+2012,Space heating,19.30775848,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,True,False,False,False,False
+2012,Space heating,609.5248782,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,True,False,False,False
+2012,Space heating,18298.61187,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,False,True,False,False
+2012,Space heating,742.8448839,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,False,False,False,True
+2012,Water heating,574.4042467,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,True,False,False,False,False,False,False,False,False,False,False
+2012,Water heating,1946.874558,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,True,False,False,False,False,False,False,False,False
+2012,Water heating,361.2463934,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,True,False,False,False,False,False,False,False
+2012,Water heating,1429.316819,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,True,False,False,False,False,False,False
+2012,Water heating,1.734545904,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,True,False,False,False,False
+2012,Water heating,116.0999713,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,True,False,False,False
+2012,Water heating,3432.718312,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,False,True,False,False
+2012,Water heating,542.5384351,80327900.0,39984022.0,2.008999995,3076.83,25.72,3749758.266,1992587.682,False,False,False,False,False,False,False,False,False,False,False,True,False
+2013,Cooking,2523.139386,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,True,False,False,False,False,False,False
+2013,Cooking,97.26000764,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,False,True,False,False
+2013,Space cooling,102.7247062,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,True,False,False,False,False,False,False,False,False,False,False,False
+2013,Space heating,418.2223607,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,True,False,False,False,False,False,False,False,False,False,False,False,False
+2013,Space heating,6840.206793,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,True,False,False,False,False,False,False,False,False,False,False
+2013,Space heating,188.1700817,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,True,False,False,False,False,False,False,False,False,False
+2013,Space heating,11898.6549,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,True,False,False,False,False,False,False,False,False
+2013,Space heating,4075.311063,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,True,False,False,False,False,False,False,False
+2013,Space heating,477.715067,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,True,False,False,False,False,False
+2013,Space heating,20.045965,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,True,False,False,False,False
+2013,Space heating,766.3423112,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,True,False,False,False
+2013,Space heating,19381.04983,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,False,True,False,False
+2013,Space heating,691.6314703,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,False,False,False,True
+2013,Water heating,665.5494411,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,True,False,False,False,False,False,False,False,False,False,False
+2013,Water heating,1450.428251,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,True,False,False,False,False,False,False,False,False
+2013,Water heating,331.0613356,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,True,False,False,False,False,False,False,False
+2013,Water heating,1385.273578,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,True,False,False,False,False,False,False
+2013,Water heating,1.689030697,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,True,False,False,False,False
+2013,Water heating,94.51263292,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,True,False,False,False
+2013,Water heating,3258.724381,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,False,True,False,False
+2013,Water heating,548.4141015,80523746.0,39823811.0,2.022000004,3278.21,0.51,3764658.394,1994232.116,False,False,False,False,False,False,False,False,False,False,False,True,False
+2014,Cooking,2414.943504,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,True,False,False,False,False,False,False
+2014,Cooking,87.0385975,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,False,True,False,False
+2014,Space cooling,100.2207653,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,True,False,False,False,False,False,False,False,False,False,False,False
+2014,Space heating,440.5793786,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,True,False,False,False,False,False,False,False,False,False,False,False,False
+2014,Space heating,5114.439453,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,True,False,False,False,False,False,False,False,False,False,False
+2014,Space heating,146.3656437,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,True,False,False,False,False,False,False,False,False,False
+2014,Space heating,10038.61907,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,True,False,False,False,False,False,False,False,False
+2014,Space heating,3330.537475,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,True,False,False,False,False,False,False,False
+2014,Space heating,386.0782364,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,True,False,False,False,False,False
+2014,Space heating,18.46514824,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,True,False,False,False,False
+2014,Space heating,615.7856385,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,True,False,False,False
+2014,Space heating,15294.75018,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,False,True,False,False
+2014,Space heating,572.7649183,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,False,False,False,True
+2014,Water heating,859.9801519,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,True,False,False,False,False,False,False,False,False,False,False
+2014,Water heating,1595.250143,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,True,False,False,False,False,False,False,False,False
+2014,Water heating,331.9732731,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,True,False,False,False,False,False,False,False
+2014,Water heating,1113.033073,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,True,False,False,False,False,False,False
+2014,Water heating,1.860647119,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,True,False,False,False,False
+2014,Water heating,98.03757734,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,True,False,False,False
+2014,Water heating,3178.686459,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,False,True,False,False
+2014,Water heating,590.7136715,80767463.0,40023520.0,2.017999991,2994.5,48.96,3846758.188,2013961.263,False,False,False,False,False,False,False,False,False,False,False,True,False
+2015,Cooking,2337.060738,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,True,False,False,False,False,False,False
+2015,Cooking,87.0463361,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,False,True,False,False
+2015,Space cooling,97.95218305,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,True,False,False,False,False,False,False,False,False,False,False,False
+2015,Space heating,462.3456769,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,True,False,False,False,False,False,False,False,False,False,False,False,False
+2015,Space heating,5147.700697,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,True,False,False,False,False,False,False,False,False,False,False
+2015,Space heating,146.7348434,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,True,False,False,False,False,False,False,False,False,False
+2015,Space heating,9710.033023,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,True,False,False,False,False,False,False,False,False
+2015,Space heating,3728.888254,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,True,False,False,False,False,False,False,False
+2015,Space heating,405.6385096,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,True,False,False,False,False,False
+2015,Space heating,20.96501531,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,True,False,False,False,False
+2015,Space heating,510.572262,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,True,False,False,False
+2015,Space heating,16639.63773,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,False,True,False,False
+2015,Space heating,600.7848667,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,False,False,False,True
+2015,Water heating,831.5196809,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,True,False,False,False,False,False,False,False,False,False,False
+2015,Water heating,1425.965343,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,True,False,False,False,False,False,False,False,False
+2015,Water heating,341.1413251,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,True,False,False,False,False,False,False,False
+2015,Water heating,1083.181128,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,True,False,False,False,False,False,False
+2015,Water heating,2.011940839,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,True,False,False,False,False
+2015,Water heating,76.71088507,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,True,False,False,False
+2015,Water heating,3293.61542,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,False,True,False,False
+2015,Water heating,632.5116939,81197537.0,40558210.0,2.002000014,3261.4,15.84,3910711.345,2060423.544,False,False,False,False,False,False,False,False,False,False,False,True,False
+2016,Cooking,2256.943384,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,True,False,False,False,False,False,False
+2016,Cooking,81.72007261,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,False,True,False,False
+2016,Space cooling,105.0967565,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,True,False,False,False,False,False,False,False,False,False,False,False
+2016,Space heating,484.1633079,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,True,False,False,False,False,False,False,False,False,False,False,False,False
+2016,Space heating,4823.944736,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,True,False,False,False,False,False,False,False,False,False,False
+2016,Space heating,142.8921369,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,True,False,False,False,False,False,False,False,False,False
+2016,Space heating,9419.519385,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,True,False,False,False,False,False,False,False,False
+2016,Space heating,4059.963829,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,True,False,False,False,False,False,False,False
+2016,Space heating,433.8611086,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,True,False,False,False,False,False
+2016,Space heating,27.17186747,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,True,False,False,False,False
+2016,Space heating,658.2190327,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,True,False,False,False
+2016,Space heating,18794.50191,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,False,True,False,False
+2016,Space heating,519.5797077,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,False,False,False,True
+2016,Water heating,679.2080587,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,True,False,False,False,False,False,False,False,False,False,False
+2016,Water heating,1355.049489,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,True,False,False,False,False,False,False,False,False
+2016,Water heating,359.7361708,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,True,False,False,False,False,False,False,False
+2016,Water heating,1027.88095,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,True,False,False,False,False,False,False
+2016,Water heating,2.588321701,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,True,False,False,False,False
+2016,Water heating,95.89489682,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,True,False,False,False
+2016,Water heating,3518.149122,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,False,True,False,False
+2016,Water heating,631.9623388,82175684.0,40822496.0,2.012999989,3815.5,3.27,3997625.706,2106471.395,False,False,False,False,False,False,False,False,False,False,False,True,False
+2017,Cooking,2422.068607,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,True,False,False,False,False,False,False
+2017,Cooking,86.39287762,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,False,True,False,False
+2017,Space cooling,112.2084886,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,True,False,False,False,False,False,False,False,False,False,False,False
+2017,Space heating,507.3690382,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,True,False,False,False,False,False,False,False,False,False,False,False,False
+2017,Space heating,4941.825002,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,True,False,False,False,False,False,False,False,False,False,False
+2017,Space heating,140.3674841,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,True,False,False,False,False,False,False,False,False,False
+2017,Space heating,9282.26584,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,True,False,False,False,False,False,False,False,False
+2017,Space heating,4045.631513,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,True,False,False,False,False,False,False,False
+2017,Space heating,426.1741438,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,True,False,False,False,False,False
+2017,Space heating,25.40749458,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,True,False,False,False,False
+2017,Space heating,486.0588349,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,True,False,False,False
+2017,Space heating,18186.45086,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,False,True,False,False
+2017,Space heating,500.3765262,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,False,False,False,True
+2017,Water heating,721.9993312,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,True,False,False,False,False,False,False,False,False,False,False
+2017,Water heating,1501.480677,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,True,False,False,False,False,False,False,False,False
+2017,Water heating,385.5092433,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,True,False,False,False,False,False,False,False
+2017,Water heating,1109.936836,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,True,False,False,False,False,False,False
+2017,Water heating,2.394139127,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,True,False,False,False,False
+2017,Water heating,79.78381341,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,True,False,False,False
+2017,Water heating,3639.845514,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,False,True,False,False
+2017,Water heating,645.5766122,82521653.0,41178470.0,2.003999979,3227.46,7.77,4109480.783,2138125.799,False,False,False,False,False,False,False,False,False,False,False,True,False
+2018,Cooking,2298.127889,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,True,False,False,False,False,False,False
+2018,Cooking,92.9381628,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,False,True,False,False
+2018,Space cooling,106.1687207,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,True,False,False,False,False,False,False,False,False,False,False,False
+2018,Space heating,528.3292237,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,True,False,False,False,False,False,False,False,False,False,False,False,False
+2018,Space heating,5184.94614,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,True,False,False,False,False,False,False,False,False,False,False
+2018,Space heating,124.6617256,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,True,False,False,False,False,False,False,False,False,False
+2018,Space heating,8017.813485,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,True,False,False,False,False,False,False,False,False
+2018,Space heating,3325.547368,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,True,False,False,False,False,False,False,False
+2018,Space heating,423.1731379,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,True,False,False,False,False,False
+2018,Space heating,21.01875698,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,True,False,False,False,False
+2018,Space heating,735.4616982,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,True,False,False,False
+2018,Space heating,18479.50853,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,False,True,False,False
+2018,Space heating,492.4752365,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,False,False,False,True
+2018,Water heating,850.3075141,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,True,False,False,False,False,False,False,False,False,False,False
+2018,Water heating,1390.775509,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,True,False,False,False,False,False,False,False,False
+2018,Water heating,330.9205599,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,True,False,False,False,False,False,False,False
+2018,Water heating,1049.329911,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,True,False,False,False,False,False,False
+2018,Water heating,1.958199164,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,True,False,False,False,False
+2018,Water heating,129.7631513,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,True,False,False,False
+2018,Water heating,3981.545913,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,False,True,False,False
+2018,Water heating,729.7697334,82792351.0,41437613.0,1.998000005,3111.72,14.0,4156123.782,2168351.97,False,False,False,False,False,False,False,False,False,False,False,True,False
+2019,Cooking,2277.876078,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,True,False,False,False,False,False,False
+2019,Cooking,104.3712859,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,False,True,False,False
+2019,Space cooling,108.2028279,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,True,False,False,False,False,False,False,False,False,False,False,False
+2019,Space heating,556.471693,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,True,False,False,False,False,False,False,False,False,False,False,False,False
+2019,Space heating,5424.857973,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,True,False,False,False,False,False,False,False,False,False,False
+2019,Space heating,108.3124676,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,True,False,False,False,False,False,False,False,False,False
+2019,Space heating,9384.925853,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,True,False,False,False,False,False,False,False,False
+2019,Space heating,3609.681112,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,True,False,False,False,False,False,False,False
+2019,Space heating,447.6323608,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,True,False,False,False,False,False
+2019,Space heating,23.17892472,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,True,False,False,False,False
+2019,Space heating,664.7313672,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,True,False,False,False
+2019,Space heating,18820.84711,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,False,True,False,False
+2019,Space heating,345.3883061,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,False,False,False,True
+2019,Water heating,710.6631795,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,True,False,False,False,False,False,False,False,False,False,False
+2019,Water heating,1701.526942,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,True,False,False,False,False,False,False,False,False
+2019,Water heating,357.5014331,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,True,False,False,False,False,False,False,False
+2019,Water heating,958.4455831,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,True,False,False,False,False,False,False
+2019,Water heating,2.138702103,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,True,False,False,False,False
+2019,Water heating,122.3043164,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,True,False,False,False
+2019,Water heating,3744.883497,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,False,True,False,False
+2019,Water heating,697.6927773,83019213.0,41551158.0,1.997999984,2974.45,5.47,4196766.143,2204522.175,False,False,False,False,False,False,False,False,False,False,False,True,False
+2020,Cooking,2201.671612,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,True,False,False,False,False,False,False
+2020,Cooking,101.4151858,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,False,True,False,False
+2020,Space cooling,109.3764211,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,True,False,False,False,False,False,False,False,False,False,False,False
+2020,Space heating,592.2911869,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,True,False,False,False,False,False,False,False,False,False,False,False,False
+2020,Space heating,5063.505388,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,True,False,False,False,False,False,False,False,False,False,False
+2020,Space heating,96.07775253,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,True,False,False,False,False,False,False,False,False,False
+2020,Space heating,10303.36492,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,True,False,False,False,False,False,False,False,False
+2020,Space heating,3515.580601,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,True,False,False,False,False,False,False,False
+2020,Space heating,457.1706474,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,True,False,False,False,False,False
+2020,Space heating,22.14454122,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,True,False,False,False,False
+2020,Space heating,735.114991,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,True,False,False,False
+2020,Space heating,18318.06718,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,False,True,False,False
+2020,Space heating,315.7059329,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,False,False,False,True
+2020,Water heating,686.8051017,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,True,False,False,False,False,False,False,False,False,False,False
+2020,Water heating,1869.978671,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,True,False,False,False,False,False,False,False,False
+2020,Water heating,348.1817378,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,True,False,False,False,False,False,False,False
+2020,Water heating,927.2936123,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,True,False,False,False,False,False,False
+2020,Water heating,2.026653962,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,True,False,False,False,False
+2020,Water heating,135.2538826,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,True,False,False,False
+2020,Water heating,3619.775499,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,False,True,False,False
+2020,Water heating,732.1343078,83166711.0,41467181.0,2.005603202,2842.27,7.21,4023378.626,2055696.812,False,False,False,False,False,False,False,False,False,False,False,True,False
+2021,Cooking,2289.859809,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,True,False,False,False,False,False,False
+2021,Cooking,116.9970383,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,False,True,False,False
+2021,Space cooling,119.4218974,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,True,False,False,False,False,False,False,False,False,False,False,False
+2021,Space heating,621.0110802,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,True,False,False,False,False,False,False,False,False,False,False,False,False
+2021,Space heating,6010.409401,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,True,False,False,False,False,False,False,False,False,False,False
+2021,Space heating,89.20111646,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,True,False,False,False,False,False,False,False,False,False
+2021,Space heating,6036.558121,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,True,False,False,False,False,False,False,False,False
+2021,Space heating,3449.82666,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,True,False,False,False,False,False,False,False
+2021,Space heating,452.6147782,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,True,False,False,False,False,False
+2021,Space heating,34.78831133,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,True,False,False,False,False
+2021,Space heating,667.7282756,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,True,False,False,False
+2021,Space heating,21170.77181,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,False,True,False,False
+2021,Space heating,348.1129837,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,False,False,False,True
+2021,Water heating,744.1286902,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,True,False,False,False,False,False,False,False,False,False,False
+2021,Water heating,1080.533367,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,True,False,False,False,False,False,False,False,False
+2021,Water heating,413.9356788,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,True,False,False,False,False,False,False,False
+2021,Water heating,964.6119915,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,True,False,False,False,False,False,False
+2021,Water heating,3.164311197,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,True,False,False,False,False
+2021,Water heating,122.3938224,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,True,False,False,False
+2021,Water heating,4110.537252,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,False,True,False,False
+2021,Water heating,702.8040413,83155031.0,41473831.0,2.004999996,3216.74,12.09,4180695.601,2096191.744,False,False,False,False,False,False,False,False,False,False,False,True,False
